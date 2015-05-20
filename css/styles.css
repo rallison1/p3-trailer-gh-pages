@@ -36,16 +36,24 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 }
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-loaded {
-	background: green;
+	background: black;
 }
 
 .mejs-378 .mejs-controls .mejs-time-rail .mejs-time-current {
-	background: red;
+	background: white;
 }
 
 /* ADD MORE STYLING. MAKE IT YOUR OWN. */
+.grid-container{
+	background: black;
+}
+ .grid-6 {
+ 	background: grey;
+ }
 
-
+ h3 {
+  font-family: 'Hind', sans-serif;
+ }
 /********************
 MEDIA QUERIES
 *******************/
